@@ -1,0 +1,14 @@
+.MenuToggle {
+    position: fixed;
+    font-size: 2rem;
+    color: #5e005e;
+    top: 1rem;
+    right: 1rem;
+    cursor: pointer;
+    transition: right 0.3s ease-in;
+    z-index: 100;
+  }
+
+.MenuToggle.open {
+  right: 305px;
+}
