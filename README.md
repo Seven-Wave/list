@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Link to website: https://seven-wave.github.io/list/
+This is a live item finder app
 
 ## Available Scripts
 
